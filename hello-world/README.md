@@ -1,4 +1,4 @@
-# Dsprog220252 app
+# HelloWorld app
 
 ## Run the app
 
